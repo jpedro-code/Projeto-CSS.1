@@ -1,0 +1,41 @@
+body{
+    background-image: url(CSS/backgorund.png);
+    width: 400px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.titulo{
+    font-family:'Roboto Mono';
+    margin-right: 10px;
+    text-align: left;
+    margin-top: 80px;
+    margin-left: 40px;
+}
+.insta{
+    font-family: "Roboto Mono";
+    text-decoration: none;
+    margin-right:20px;
+    color: black ;
+    font-size: 20px;
+    list-style-image:  url(CSS/Insta.png);
+}
+.twitter{
+    font-family: "Roboto Mono";
+    text-decoration: none;
+    margin-right:20px;
+    color: black ;
+    font-size: 20px;
+    list-style-image:  url(CSS/Twitter.png);
+}
+.youtube{
+    font-family: "Roboto Mono";
+    text-decoration: none;
+    margin-right:20px;
+    color: black ;
+    font-size: 20px;
+    list-style-image: url(CSS/Youtube.png);
+}
+.youtube:hover{
+    color: grey;
+}
